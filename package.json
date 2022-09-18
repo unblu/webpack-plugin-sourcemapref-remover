@@ -1,0 +1,33 @@
+{
+  "name": "webpack-plugin-sourcemapref-remover",
+  "version": "1.0.1",
+  "description": "Webpack plugin to remove sourcemap references from minified javascript files",
+  "directories": {
+    "lib": "lib"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:unblu/webpack-plugin-sourcemapref-remover.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "sourcemap"
+  ],
+  "author": "Kay Huber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unblu/webpack-plugin-sourcemapref-remover/issues"
+  },
+  "homepage": "https://github.com/unblu/webpack-plugin-sourcemapref-remover#readme",
+  "peerDependencies": {
+    "webpack": "^5.20.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.20.2"
+  }
+}
