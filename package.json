@@ -1,6 +1,6 @@
 {
   "name": "webpack-plugin-sourcemapref-remover",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Webpack plugin to remove sourcemap references from minified javascript files",
   "directories": {
     "lib": "lib"
