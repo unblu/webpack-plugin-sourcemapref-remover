@@ -25,9 +25,9 @@
   },
   "homepage": "https://github.com/unblu/webpack-plugin-sourcemapref-remover#readme",
   "peerDependencies": {
-    "webpack": "^5.99.2"
+    "webpack": "^5.99.5"
   },
   "devDependencies": {
-    "webpack": "^5.99.2"
+    "webpack": "^5.99.5"
   }
 }
